@@ -1,0 +1,13 @@
+.container{
+  font-family: "Poppins", sans-serif;
+}
+
+.header{
+    background-color: #ED1B2E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
